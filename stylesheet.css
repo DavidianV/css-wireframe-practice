@@ -17,3 +17,6 @@
     position: absolute;
     right: 10px;
 }
+ .upper__right a {
+    text-decoration: none;
+ }
